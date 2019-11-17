@@ -2,9 +2,7 @@
 evans in docker
 
 ## TL;DR;
-
-use `evans`(`v0.8.4`) via docker: no installation
-
+use `evans`(`v0.8.4`) via docker
 ## How to use:
 
 ```diff
